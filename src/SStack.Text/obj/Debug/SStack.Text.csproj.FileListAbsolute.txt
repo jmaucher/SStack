@@ -1,0 +1,6 @@
+C:\devel\SStack\src\SStack.Text\bin\Debug\SStack.Text.dll
+C:\devel\SStack\src\SStack.Text\bin\Debug\SStack.Text.pdb
+C:\devel\SStack\src\SStack.Text\obj\Debug\SStack.Text.dll
+C:\devel\SStack\src\SStack.Text\obj\Debug\SStack.Text.pdb
+C:\devel\SStack\bin\Debug\SStack.Text.dll
+C:\devel\SStack\bin\Debug\SStack.Text.pdb

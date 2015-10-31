@@ -1,0 +1,11 @@
+C:\devel\SStack\src\SStack.Common\bin\Debug\SStack.Common.dll
+C:\devel\SStack\src\SStack.Common\bin\Debug\SStack.Common.pdb
+C:\devel\SStack\src\SStack.Common\bin\Debug\SStack.Interfaces.dll
+C:\devel\SStack\src\SStack.Common\bin\Debug\SStack.Text.dll
+C:\devel\SStack\src\SStack.Common\bin\Debug\SStack.Interfaces.pdb
+C:\devel\SStack\src\SStack.Common\bin\Debug\SStack.Text.pdb
+C:\devel\SStack\src\SStack.Common\obj\Debug\SStack.Common.csprojResolveAssemblyReference.cache
+C:\devel\SStack\src\SStack.Common\obj\Debug\SStack.Common.dll
+C:\devel\SStack\src\SStack.Common\obj\Debug\SStack.Common.pdb
+C:\devel\SStack\bin\Debug\SStack.Common.dll
+C:\devel\SStack\bin\Debug\SStack.Common.pdb

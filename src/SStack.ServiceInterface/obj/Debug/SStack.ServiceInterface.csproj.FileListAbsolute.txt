@@ -1,0 +1,17 @@
+C:\devel\SStack\src\SStack.ServiceInterface\bin\Debug\SStack.ServiceInterface.dll
+C:\devel\SStack\src\SStack.ServiceInterface\bin\Debug\SStack.ServiceInterface.pdb
+C:\devel\SStack\src\SStack.ServiceInterface\bin\Debug\SStack.Common.dll
+C:\devel\SStack\src\SStack.ServiceInterface\bin\Debug\SStack.dll
+C:\devel\SStack\src\SStack.ServiceInterface\bin\Debug\SStack.Interfaces.dll
+C:\devel\SStack\src\SStack.ServiceInterface\bin\Debug\SStack.Text.dll
+C:\devel\SStack\src\SStack.ServiceInterface\bin\Debug\SStack.Common.pdb
+C:\devel\SStack\src\SStack.ServiceInterface\bin\Debug\SStack.Interfaces.pdb
+C:\devel\SStack\src\SStack.ServiceInterface\bin\Debug\SStack.Text.pdb
+C:\devel\SStack\src\SStack.ServiceInterface\bin\Debug\SStack.pdb
+C:\devel\SStack\src\SStack.ServiceInterface\obj\Debug\SStack.ServiceInterface.csprojResolveAssemblyReference.cache
+C:\devel\SStack\src\SStack.ServiceInterface\obj\Debug\SStack.ServiceInterface.FluentValidation.Resources.Messages.resources
+C:\devel\SStack\src\SStack.ServiceInterface\obj\Debug\SStack.ServiceInterface.csproj.GenerateResource.Cache
+C:\devel\SStack\src\SStack.ServiceInterface\obj\Debug\SStack.ServiceInterface.dll
+C:\devel\SStack\src\SStack.ServiceInterface\obj\Debug\SStack.ServiceInterface.pdb
+C:\devel\SStack\bin\Debug\SStack.ServiceInterface.dll
+C:\devel\SStack\bin\Debug\SStack.ServiceInterface.pdb
